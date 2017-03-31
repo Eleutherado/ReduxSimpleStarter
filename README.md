@@ -1,3 +1,9 @@
+# Simple Book List App
+Following a course on react-redux development. First redux app. we display info about books using redux for the state and react for the rendering.
+
+
+---
+Stephen Grider Original Readme
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
