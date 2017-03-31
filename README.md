@@ -1,4 +1,4 @@
-#Simple Book List App
+# Simple Book List App
 Following a course on react-redux development. First redux app. we display info about books using redux for the state and react for the rendering.
 
 
